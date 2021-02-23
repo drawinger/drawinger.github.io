@@ -1,0 +1,41 @@
+* {
+
+}
+
+header {
+    justify-content: space-between;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: cadetblue;
+}
+
+
+.t1 {
+    width: 300px;
+    padding: 20px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: red;
+}
+
+.t2 {
+    width: 300px;
+    padding: 20px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: blue;
+}
+
+.t3 {
+    width: 300px;
+    padding: 20px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: green;
+}
+
+
+.test {
+    font-family: 'Comfortaa', cursive;
+}
